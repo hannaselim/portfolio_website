@@ -87,6 +87,13 @@ body {
   height: auto;
 }
 
+.index_body{
+  background-color: #4E4E4E;
+  padding: 120px;
+  text-align: center;
+  color: white;
+}
+
 /* 3 columns floating beside eachother */
 .column {
   float: left;
@@ -433,6 +440,8 @@ height: 100%;
   text-align: center;
   color: black;
 }
+
+
 
 
 
